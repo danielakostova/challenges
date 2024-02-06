@@ -5,7 +5,7 @@
 }
 
 body {
-  max-width: 600px
+  max-width: 600px;
    margin:0 auto; 
    padding :0;
    background :#f2eddf;
@@ -48,18 +48,17 @@ left:0%
 .box--top-center {
   background-color: #85c1e9;
 top:0%;
-.box--bottom-center 
+
 }
 
 .box--top-right {
   background-color: #5dade2;
-top:0%
-top-right:0%
+top:0%;
 }
 
 .box--center {
   background-color: #3498db;
-box-sizing:0;content-visibility: 
+box-sizing:0;
 
 }
 
